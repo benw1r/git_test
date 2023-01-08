@@ -1,2 +1,2 @@
-Hello GitHub repo!
+Hello World!
 This is the GitHub repo of Ben W1r.
